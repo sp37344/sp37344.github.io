@@ -4,5 +4,3 @@ title: projects
 excerpt: "projects"
 comments: false
 ---
-
-
