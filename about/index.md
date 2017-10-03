@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
+title: about me
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2017-10-2
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://sp37344.github.io/"><b>Moon</b></a> student at Princeton University </center>
 
 ## Features
 * Minimal, you can focus on your content
