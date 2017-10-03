@@ -6,7 +6,7 @@ date: 2017-10-2
 comments: false
 ---
     
-<center><a href="http://sp37344.github.io/"><b>Moon</b></a> student at Princeton University </center>
+<center><a href="http://sp37344.github.io/"><b>sarah pan: </b></a> student at Princeton University </center>
 
 ## Features
 * Minimal, you can focus on your content
