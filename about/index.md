@@ -7,7 +7,9 @@ comments: false
 ---
     
 <center><a href="http://sp37344.github.io/"></a> Hi there! I'm Sarah, a student at Princeton University (Class of 2019) studying Computer Science with interests in graphics, aesthetics, and design. </center>
-<!-- <center><a href="http://sp37344.github.io/"><b>sarah pan: </b></a> student at Princeton University </center>
+
+
+<center><a href="http://sp37344.github.io/"><b>sarah pan: </b></a> student at Princeton University </center>
 
 ## Features
 * Minimal, you can focus on your content
@@ -36,4 +38,3 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
- -->
