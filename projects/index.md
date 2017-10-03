@@ -1,6 +1,6 @@
 ---
 layout: project
-title: projects
-excerpt: "projects"
+title: graphic designs
+excerpt: "graphic designs"
 comments: false
 ---
