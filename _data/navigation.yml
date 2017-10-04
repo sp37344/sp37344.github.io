@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
-- title: Resume
+- title: resume
   url: /resume/
+- title: projects
+  url: /projects/
