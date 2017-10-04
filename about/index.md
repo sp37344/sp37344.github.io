@@ -6,4 +6,7 @@ date: 2017-10-2
 comments: false
 ---
     
-<center><a href="http://sp37344.github.io/"></a> Hi there! I'm Sarah, a junior at Princeton University studying Computer Science with (interests in graphics, aesthetics, and design). Feel free to explore my website and connect with me on my social media platforms!  </center>
+<center>
+	<a href="http://sp37344.github.io/"></a> Hi there! I'm Sarah, a junior at Princeton University studying Computer Science with (interests in graphics, aesthetics, and design). Feel free to explore my website and connect with me on my social media platforms!  
+	<img src="{{ site.url }}/assets/img/headshot.png" align="middle" style="width:300px;height:300px;">	
+</center>
